@@ -16,7 +16,7 @@ I built it from my experience in remote customer service (EU261, refunds, SLA/CS
 ## Quick start
 
 ```bash
-git clone https://github.com/<your-username>/support-ticket-analyzer.git
+git clone https://github.com/gorkaleon14/support-ticket-analyzer.git
 cd support-ticket-analyzer
 
 python generate_sample_data.py          # creates data/sample_tickets.csv
